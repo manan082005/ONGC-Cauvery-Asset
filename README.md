@@ -4,8 +4,13 @@ This repository contains the final report submitted by B.Tech Petroleum Engineer
 
 Key Topics
 Drilling operations & well logging
+
 Surface/subsurface production systems
+
 Cementing, well stimulation, and workover services
+
 Safety protocols (OISD/API standards)
+
 Environmental management (ETP, GCS)
+
 Problem statements (sludge, salinity, sucker rod pumping) with solutions
